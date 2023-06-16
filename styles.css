@@ -16,6 +16,9 @@ h1 {
 p {
   margin-bottom: 10px;
 }
+.justify-text {
+  text-align: justify;
+}
 
 .section {
   margin-bottom: 20px;
